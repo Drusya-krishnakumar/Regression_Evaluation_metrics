@@ -82,6 +82,6 @@ matplotlib / seaborn
 scikit-learn
 
 #### 
-📧 Contact
-Developed by Drusya Krishnakumar
+📧 Contact <br>
+Developed by :Drusya Krishnakumar
 For academic purposes — supervised learning assignment
